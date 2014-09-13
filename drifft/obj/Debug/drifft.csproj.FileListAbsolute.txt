@@ -1,0 +1,34 @@
+C:\Users\Yuriy\Desktop\111\drifft\drifft\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Yuriy\Desktop\111\drifft\drifft\obj\Debug\drifft.Resources.resources
+C:\Users\Yuriy\Desktop\111\drifft\drifft\obj\Debug\drifft.csproj.GenerateResource.Cache
+C:\Users\Yuriy\Desktop\111\drifft\drifft\obj\Debug\drifft.Resources.tinyresources
+C:\Users\Yuriy\Desktop\111\drifft\drifft\obj\Debug\TinyResGen.cache
+C:\Users\Yuriy\Desktop\111\drifft\drifft\bin\Debug\le\FEZ Panda II Application.exe
+C:\Users\Yuriy\Desktop\111\drifft\drifft\bin\Debug\be\FEZ Panda II Application.exe
+C:\Users\Yuriy\Desktop\111\drifft\drifft\bin\Debug\le\FEZ Panda II Application.pdb
+C:\Users\Yuriy\Desktop\111\drifft\drifft\bin\Debug\be\FEZ Panda II Application.pdb
+C:\Users\Yuriy\Desktop\111\drifft\drifft\bin\Debug\FEZ Panda II Application.exe
+C:\Users\Yuriy\Desktop\111\drifft\drifft\bin\Debug\FEZ Panda II Application.pdb
+C:\Users\Yuriy\Desktop\111\drifft\drifft\bin\Debug\le\FEZ Panda II Application.pe
+C:\Users\Yuriy\Desktop\111\drifft\drifft\bin\Debug\le\FEZ Panda II Application.pdbx
+C:\Users\Yuriy\Desktop\111\drifft\drifft\bin\Debug\be\FEZ Panda II Application.pe
+C:\Users\Yuriy\Desktop\111\drifft\drifft\bin\Debug\be\FEZ Panda II Application.pdbx
+C:\Users\Yuriy\Desktop\111\drifft\drifft\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\Yuriy\Desktop\111\drifft\drifft\bin\Debug\LE\GHIElectronics.NETMF.System.pe
+C:\Users\Yuriy\Desktop\111\drifft\drifft\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pe
+C:\Users\Yuriy\Desktop\111\drifft\drifft\bin\Debug\BE\GHIElectronics.NETMF.System.pe
+C:\Users\Yuriy\Desktop\111\drifft\drifft\bin\Debug\LE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\Yuriy\Desktop\111\drifft\drifft\bin\Debug\LE\GHIElectronics.NETMF.System.pdbx
+C:\Users\Yuriy\Desktop\111\drifft\drifft\bin\Debug\BE\GHIElectronics.NETMF.Hardware.pdbx
+C:\Users\Yuriy\Desktop\111\drifft\drifft\bin\Debug\BE\GHIElectronics.NETMF.System.pdbx
+C:\Users\Yuriy\Desktop\111\drifft\drifft\bin\Debug\GHIElectronics.NETMF.Hardware.dll
+C:\Users\Yuriy\Desktop\111\drifft\drifft\bin\Debug\GHIElectronics.NETMF.System.dll
+C:\Users\Yuriy\Desktop\111\drifft\drifft\bin\Debug\GHIElectronics.NETMF.Hardware.xml
+C:\Users\Yuriy\Desktop\111\drifft\drifft\bin\Debug\GHIElectronics.NETMF.System.xml
+C:\Users\Yuriy\Desktop\111\drifft\drifft\obj\Debug\be\FEZ Panda II Application.pe
+C:\Users\Yuriy\Desktop\111\drifft\drifft\obj\Debug\be\FEZ Panda II Application.pdbx
+C:\Users\Yuriy\Desktop\111\drifft\drifft\obj\Debug\le\FEZ Panda II Application.pe
+C:\Users\Yuriy\Desktop\111\drifft\drifft\obj\Debug\le\FEZ Panda II Application.pdbx
+C:\Users\Yuriy\Desktop\111\drifft\drifft\obj\Debug\FEZ Panda II Application.exe
+C:\Users\Yuriy\Desktop\111\drifft\drifft\obj\Debug\FEZ Panda II Application.pdb
+C:\Users\Yuriy\Desktop\111\drifft\drifft\obj\Debug\drifft.csprojResolveAssemblyReference.cache
